@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I Always Try To Build Something Unique**
 
-- 🚀 My Favourite Project, Inspired By [DeveloperRahul](https://github.com/developerrahuloffical) And Designed By Me, Is [MusicStream](https://musicstream.vercel.app)
+- 🚀 My Favourite Project, Inspired By [DeveloperRahul](https://github.com/developerrahuloffical) But Designed By Me, Is [MusicStream](https://musicstream.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
