@@ -23,25 +23,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<!-- LinkedIn -->
-
+  
 <a href="https://linkedin.com/in/amjadimdad00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amjadimdad00" height="30" width="40" /></a>
-
-<!-- Facebook -->
-
 <a href="https://fb.com/amjadimdad00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amjadimdad00" height="30" width="40" /></a>
-
-<!-- Instagram -->
-
 <a href="https://instagram.com/amjadimdad00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amjadimdad00" height="30" width="40" /></a>
-
-<!-- Youtube -->
-
 <a href="https://www.youtube.com/@amjadimdad00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amjadimdad00" height="30" width="40" /></a>
-
-<!-- Tiktok -->
-
 <a href="https://www.tiktok.com/@amjadimdad00" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2021/01/30/06/42/tiktok-5962992_1280.png" alt="amjadimdad00" height="30" width="40" /></a>
 
 </p>
