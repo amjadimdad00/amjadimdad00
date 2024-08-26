@@ -34,7 +34,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![Skills](https://skillicons.dev/icons?i=bootstrap,css,discord,react,nextjs,vercel,express,firebase,git,gitlab,github,gmail,html,instagram,jquery,js,linkedin,mui,mongodb,netlify,nodejs,npm,postman,tailwind,threejs,ts,vscode,vite)
+![Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,nextjs,ts,nodejs,express,mongodb,postman,bootstrap,tailwind,mui,firebase,jquery,threejs,git,gitlab,github,npm,discord,vercel,gmail,instagram,linkedin,netlify,vscode)
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amjadimdad00&show_icons=true&locale=en&layout=compact" alt="amjadimdad00" /></p>
 
