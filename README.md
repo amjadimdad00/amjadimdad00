@@ -17,9 +17,9 @@
 
 - 📫 Contact Me On **amjadabro598@gmail.com**
 
-- ⚡ Fun fact **I Always Try To Build Something Unique**
+- ⚡ Fun fact **Combining my love for Coding + Gaming with front-end development, I craft interactive and stunning web experiences. 🎮✨**
 
-- 🚀 My Favourite Project, Inspired By [DeveloperRahul](https://github.com/developerrahuloffical) But Designed By Me, Is [MusicStream](https://musicstream.vercel.app)
+- 🚀 My Favourite Project, Inspired By [DeveloperRahul](https://github.com/developerrahuloffical) Is [MusicStream](https://musicstream.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
