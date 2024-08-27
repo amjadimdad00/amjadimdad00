@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react, typescript, nextjs, javascript, and many more**
 
-- 📫 How to reach me **amjadabro598@gmail.com**
+- 📫 Contact Me On **amjadabro598@gmail.com**
 
 - ⚡ Fun fact **I Always Try To Build Something Unique**
 
