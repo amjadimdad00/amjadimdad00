@@ -11,15 +11,15 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://amjadimdad00.vercel.app)
 
-<!-- - 📝 I regularly write articles on [medium](https://amjadimdad00.medium.com) -->
-
 - 💬 Ask me about **react, typescript, nextjs, javascript, and many more**
+
+- 🚀 My Favourite Project, Inspired By [DeveloperRahul](https://github.com/developerrahuloffical) Is [MusicStream](https://musicstream.vercel.app)
 
 - 📫 Contact Me On **amjadabro598@gmail.com**
 
-- ⚡ Fun fact **Combining my love for Coding + Gaming with front-end development, I craft interactive and stunning web experiences. 🎮✨**
+- ⚡ Fun fact **Blending coding and gaming, I create interactive and stunning web experiences. 🎮💻✨**
 
-- 🚀 My Favourite Project, Inspired By [DeveloperRahul](https://github.com/developerrahuloffical) Is [MusicStream](https://musicstream.vercel.app)
+<!-- - 📝 I regularly write articles on [medium](https://amjadimdad00.medium.com) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
