@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amjadimdad00" alt="amjadimdad00" /></a> </p>
 
-- 🔭 I’m currently working on [ExcellenceCommerce](https://github.com/amjadimdad00/ExcellenceCommerce) And [TeleGem](https://github.com/amjadimdadd00/TeleGem)
+- 🔭 I’m currently working on [ExcellenceCommerce](https://github.com/amjadimdad00/ExcellenceCommerce) And [TeleGem](https://github.com/amjadimdad00/TeleGem)
 
-- 🌱 I’m currently learning about **Backend Development & Technology**
+- 🌱 I’m currently learning about **Life & Technology**
+
+- ❤️ I’m currently exploring **Life** beyond **Code**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://amjadimdad00.vercel.app)
 
