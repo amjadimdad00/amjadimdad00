@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amjadimdad00" alt="amjadimdad00" /></a> </p>
 
-- 🔭 I’m currently working on [ExcellenceCommerce](https://github.com/amjadimdad00/ExcellenceCommerce) And [TeleGem](https://github.com/amjadimdad00/TeleGem)
+- 🔭 I’m currently working on [ExcellenceCommerce](https://github.com/amjadimdad00/ExcellenceCommerce)
 
 - 🌱 I’m currently learning about **Life & Technology**
 
