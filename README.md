@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react, typescript, nextjs, javascript, and many more**
 
-- 🚀 My Favourite Project, Inspired By [DeveloperRahul](https://github.com/developerrahuloffical) Is [MusicStream](https://musicstream.vercel.app)
+- 🚀 My Favourite Project, Inspired By [DeveloperRahul](https://github.com/developerrahulofficial) Is [MusicStream](https://musicstream.vercel.app)
 
 - 📫 Contact Me On **amjadabro598@gmail.com**
 
