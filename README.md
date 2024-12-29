@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amjadimdad00" alt="amjadimdad00" /></a> </p>
 
-<!-- - 🔭 I’m currently working on my **Skills** -->
-
-- 🌱 I’m currently learning about **Backend Development**
+- 🔭 I’m currently working on my **Skills**
+  
+- 🌱 I’m currently **Making Projects**
 
 - ❤️ I’m currently exploring **Life** beyond **Code**
 
@@ -19,7 +19,7 @@
 
 - 📫 Contact Me On **amjadabro598@gmail.com**
 
-- ⚡ Fun fact **Blending coding and gaming, I create interactive and stunning web experiences. 🎮💻✨**
+<!-- - ⚡ Fun fact **Blending coding and gaming, I create interactive and stunning web experiences. 🎮💻✨** -->
 
 <!-- - 📝 I regularly write articles on [medium](https://amjadimdad00.medium.com) -->
 
