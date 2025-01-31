@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amjad Imdad</h1>
-<h3 align="center">A Creative Front-End Developer from Karachi, Pakistan</h3>
+<h3 align="center">A Passionate MERN Stack Developer from Karachi, Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amjadimdad00&label=Profile%20views&color=0e75b6&style=flat" alt="amjadimdad00" /> </p>
 
@@ -17,7 +17,7 @@
 
 - 🚀 My Favourite Project, Inspired By [DeveloperRahul](https://github.com/developerrahulofficial) Is [MusicStream](https://musicstream.vercel.app)
 
-- 📫 Contact Me On **amjadabro598@gmail.com**
+- 📫 Contact Me On **amjadabro65@gmail.com**
 
 <!-- - ⚡ Fun fact **Blending coding and gaming, I create interactive and stunning web experiences. 🎮💻✨** -->
 
