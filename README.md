@@ -15,13 +15,11 @@
 
 - 💬 Ask me about **react, typescript, nextjs, javascript, and many more**
 
-- 🚀 My Favourite Project, Inspired By [DeveloperRahul](https://github.com/developerrahulofficial) Is [MusicStream](https://musicstream.vercel.app)
+- 🚀 My favourite project is [StreamVerse](https://musicstream.vercel.app)
 
 - 📫 Contact Me On **amjadabro65@gmail.com**
-
-<!-- - ⚡ Fun fact **Blending coding and gaming, I create interactive and stunning web experiences. 🎮💻✨** -->
-
-<!-- - 📝 I regularly write articles on [medium](https://amjadimdad00.medium.com) -->
+  
+- ⚡  Fun fact **Blending coding and gaming, I create interactive and stunning web experiences. 🎮💻✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
