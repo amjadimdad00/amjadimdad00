@@ -12,7 +12,7 @@
 - 🌱 Always learning and creating **projects**
 - ❤️ Exploring **life beyond code**
 - 💬 Ask me about: `React`, `Next.js`, `TypeScript`, `Node.js`, and more
-- 📫 Reach me at: **amjadabro65@gmail.com**
+- 📫 Reach me at: **amjadimdad65@gmail.com**
 - 🧠 Fun Fact: *Blending coding and gaming, I create interactive and stunning web experiences 🎮💻✨*
 
 ---
@@ -24,7 +24,7 @@ Visit: [amjadimdad00.vercel.app](https://amjadimdad00.vercel.app)
 
 ### 📱 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/amjadimdad00" target="_blank">
+  <a href="https://linkedin.com/in/coderslife" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" />
   </a>
 </p>
