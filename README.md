@@ -44,7 +44,7 @@
 **Frontend Arsenal**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=threedotjs&logoColor=white&style=flat)
+![Typescript](https://img.shields.io/badge/-Typescript-000000?logo=typescript&logoColor=blue&style=flat)
 
 **Backend Toolkit**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
