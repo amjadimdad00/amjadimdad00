@@ -1,61 +1,82 @@
-<h1 align="center">Hi 👋, I'm Amjad Imdad</h1>
-<h3 align="center">A Passionate MERN Stack Developer from Karachi, Pakistan</h3>
+<h1 align="center">👨‍💻 Amjad Imdad | MERN Stack Developer</h1>
+<h3 align="center">Building Unique Web Experiences with JavaScript Magic</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amjadimdad00&label=Profile%20views&color=0e75b6&style=flat" alt="amjadimdad00" />
+  <img src="https://komarev.com/ghpvc/?username=amjadimdad00&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Currently%20Learning-Three.js-black?logo=threedotjs" alt="learning" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently building up my **development skills**
-- 🌱 Always learning and creating **projects**
-- ❤️ Exploring **life beyond code**
-- 💬 Ask me about: `React`, `Next.js`, `TypeScript`, `Node.js`, and more
-- 📫 Reach me at: **amjadimdad65@gmail.com**
-- 🧠 Fun Fact: *Blending coding and gaming, I create interactive and stunning web experiences 🎮💻✨*
+## 🎮 My Creative Projects
+
+### 1. GitLocator (GitHub Profile Finder)
+🔍 Instantly discover GitHub profiles with detailed analytics  
+✨ **Features**: Profile visualization, repo statistics, responsive design  
+🛠️ **Tech**: React.js, GitHub API, Chart.js, Tailwind CSS  
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-FF5722?style=for-the-badge)](https://gitlocator.vercel.app) 
+[![Code](https://img.shields.io/badge/💻_Code-181717?style=for-the-badge&logo=github)](https://github.com/amjadimdad00/GitLocator)
+
+### 2. TraitSmith - RPG Character Builder
+⚔️ Generates unique RPG characters with random armor, weapons & traits  
+✨ **Features**: Drag-n-drop customization, trait combinations, export as PNG  
+🛠️ **Tech**: Next.js, Fabric.js, HTML5 Canvas, Framer Motion  
+[![Play Now](https://img.shields.io/badge/🎮_Try_Now-4CAF50?style=for-the-badge)](https://traitsmith-rpg.vercel.app) 
+[![Code](https://img.shields.io/badge/💻_Code-181717?style=for-the-badge&logo=github)](https://github.com/amjadimdad00/TraitSmith)
+
+### 3. RepoSyncer - GitHub Automation
+🤖 Automates GitHub repo creation with templates  
+✨ **Features**: Auto-readme generation, privacy toggle, description templates  
+🛠️ **Tech**: Node.js, GitHub REST API, OAuth 2.0, CLI  
+[![Demo](https://img.shields.io/badge/⚡_CLI_Demo-593D88?style=for-the-badge&logo=github-actions)](https://github.com/amjadimdad00/RepoSyncer#demo) 
+[![Code](https://img.shields.io/badge/💻_Code-181717?style=for-the-badge&logo=github)](https://github.com/amjadimdad00/RepoSyncer)
+
+### 4. SnakeMania - Retro Game Remake
+🐍 Classic snake game with power-ups and leaderboards  
+✨ **Features**: Local storage high scores, mobile touch controls, theme switcher  
+🛠️ **Tech**: Vanilla JavaScript, HTML5 Canvas, CSS Animations  
+[![Play](https://img.shields.io/badge/🕹️_Play_Now-FF6600?style=for-the-badge)](https://snakemania-amjad.netlify.app) 
+[![Code](https://img.shields.io/badge/💻_Code-181717?style=for-the-badge&logo=github)](https://github.com/amjadimdad00/SnakeMania)
 
 ---
 
-### 🌐 Portfolio
-Visit: [amjadimdad00.vercel.app](https://amjadimdad00.vercel.app)
+## 🧰 Technical Toolbox
+
+**Frontend Arsenal**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=threedotjs&logoColor=white&style=flat)
+
+**Backend Toolkit**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 
 ---
 
-### 📱 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/coderslife" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" />
+## 📈 My Coding Journey
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=amjadimdad00&show_icons=true&theme=dark&hide_border=true" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=amjadimdad00&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amjadimdad00&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 📬 Let's Build Together!
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-</p>
-
----
-
-### 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,mui,postman,firebase,jquery,threejs,git,github,gitlab,npm,vscode,vercel,netlify,discord,gmail,linkedin,instagram" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=amjadimdad00&theme=onestar&margin-w=10&margin-h=10" alt="trophies" />
+  <a href="mailto:amjadimdad65@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amjadimdad00&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amjadimdad00&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amjadimdad00&theme=default" alt="GitHub Streak" />
+  <a href="https://amjadimdad00.vercel.app">
+    <img src="https://img.shields.io/badge/🎨_Portfolio-FF4088?style=for-the-badge&logo=vercel" />
+  </a>
 </p>
