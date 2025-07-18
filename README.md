@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amjadimdad00&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Currently%20Learning-Three.js-black?logo=threedotjs" alt="learning" />
 </p>
 
 ---
