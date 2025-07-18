@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Amjad Imdad | Full Stack Developer</h1>
+<h1 align="center">👨‍💻 Amjad Imdad | MERN Stack Developer</h1>
 <h3 align="center">Building Unique Web Experiences with JavaScript Magic</h3>
 
 <p align="center">
