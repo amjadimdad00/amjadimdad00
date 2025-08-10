@@ -9,12 +9,12 @@
 
 ## 🎮 My Creative Projects
 
-### 1. GitLocator (GitHub Profile Finder)
-🔍 Instantly discover GitHub profiles with detailed analytics  
-✨ **Features**: Profile visualization, repo statistics, responsive design  
-🛠️ **Tech**: React.js, GitHub API, Chart.js, Tailwind CSS  
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-FF5722?style=for-the-badge)](https://gitlocator.vercel.app) 
-[![Code](https://img.shields.io/badge/💻_Code-181717?style=for-the-badge&logo=github)](https://github.com/amjadimdad00/GitLocator)
+### 1. CrushPlays - Modern Music Streaming App  
+🎵 CrushPlays is a sleek and modern music streaming web app built with Next.js, TailwindCSS, and Radix UI.  
+✨ **Features**: Spotify API integration, real-time search, preloaded playback without login, responsive design  
+🛠️ **Tech**: Next.js, TailwindCSS, Radix UI, Framer Motion, Embla Carousel, Spotify Web API, Sonner  
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-1DB954?style=for-the-badge&logo=spotify)](https://crushplays.vercel.app)  
+[![Code](https://img.shields.io/badge/💻_Code-181717?style=for-the-badge&logo=github)](https://github.com/amjadimdad00/CrushPlays)
 
 ### 2. TraitSmith - RPG Character Builder
 ⚔️ Generates unique RPG characters with random armor, weapons & traits  
@@ -67,7 +67,7 @@
 ## 📬 Let's Build Together!
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/amjadimdad">
     <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:amjadimdad65@gmail.com">
