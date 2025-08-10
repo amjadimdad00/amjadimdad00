@@ -16,10 +16,10 @@
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-1DB954?style=for-the-badge&logo=spotify)](https://crushplays.vercel.app)  
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=for-the-badge&logo=github)](https://github.com/amjadimdad00/CrushPlays)
 
-### 2. TraitSmith - RPG Character Builder
-⚔️ Generates unique RPG characters with random armor, weapons & traits  
-✨ **Features**: Drag-n-drop customization, trait combinations, export as PNG  
-🛠️ **Tech**: Next.js, Fabric.js, HTML5 Canvas, Framer Motion  
+### 2. TraitSmith - NFT Generator with Node.js  
+⚔️ Generates random NFTs using Node.js with image processing and IPFS pinning  
+✨ **Features:** Random NFT creation, image manipulation, IPFS pinning integration  
+🛠️ **Tech:** Node.js, Jimp, Pinata SDK, dotenv  
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=for-the-badge&logo=github)](https://github.com/amjadimdad00/TraitSmith)
 
 ### 3. RepoSyncer - GitHub Automation
