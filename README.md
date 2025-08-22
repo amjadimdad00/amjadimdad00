@@ -9,7 +9,7 @@
 
 ## 🎮 My Creative Projects
 
-### 2. Connect Four Multiplayer  
+### 1. Connect Four Multiplayer  
 🎮 Classic Connect Four with real-time multiplayer powered by Playroomkit  
 ✨ **Features**: Online multiplayer, smooth UI, TypeScript setup, lobby system  
 🛠️ **Tech**: Phaser 3, Playroomkit, React, Vite, TypeScript  
