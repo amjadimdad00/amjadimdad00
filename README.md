@@ -18,8 +18,8 @@
 
 ### 2. CrushPlays - Modern Music Streaming App  
 🎵 CrushPlays is a sleek and modern music streaming web app built with Next.js, TailwindCSS, and Radix UI.  
-✨ **Features**: Spotify API integration, real-time search, preloaded playback without login, responsive design  
-🛠️ **Tech**: Next.js, TailwindCSS, Radix UI, Framer Motion, Embla Carousel, Spotify Web API, Sonner  
+✨ **Features**: JioSaavn API integration, real-time search, preloaded playback without login, responsive design  
+🛠️ **Tech**: Next.js, TailwindCSS, Radix UI, Framer Motion, Embla Carousel, JioSaavn API, Sonner  
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-1DB954?style=for-the-badge&logo=spotify)](https://crushplays.vercel.app)  
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=for-the-badge&logo=github)](https://github.com/amjadimdad00/CrushPlays)
 
