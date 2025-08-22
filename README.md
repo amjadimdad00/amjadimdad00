@@ -9,31 +9,31 @@
 
 ## 🎮 My Creative Projects
 
-### 1. CrushPlays - Modern Music Streaming App  
+### 2. Connect Four Multiplayer  
+🎮 Classic Connect Four with real-time multiplayer powered by Playroomkit  
+✨ **Features**: Online multiplayer, smooth UI, TypeScript setup, lobby system  
+🛠️ **Tech**: Phaser 3, Playroomkit, React, Vite, TypeScript  
+[![Play](https://img.shields.io/badge/🕹️_Play_Now-FF6600?style=for-the-badge)](https://connectfourmp.vercel.app)  
+[![Code](https://img.shields.io/badge/💻_Code-181717?style=for-the-badge&logo=github)](https://github.com/amjadimdad00/ConnectFourMP)
+
+### 2. CrushPlays - Modern Music Streaming App  
 🎵 CrushPlays is a sleek and modern music streaming web app built with Next.js, TailwindCSS, and Radix UI.  
 ✨ **Features**: Spotify API integration, real-time search, preloaded playback without login, responsive design  
 🛠️ **Tech**: Next.js, TailwindCSS, Radix UI, Framer Motion, Embla Carousel, Spotify Web API, Sonner  
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-1DB954?style=for-the-badge&logo=spotify)](https://crushplays.vercel.app)  
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=for-the-badge&logo=github)](https://github.com/amjadimdad00/CrushPlays)
 
-### 2. TraitSmith - NFT Generator with Node.js  
+### 3. TraitSmith - NFT Generator with Node.js  
 ⚔️ Generates random NFTs using Node.js with image processing and IPFS pinning  
 ✨ **Features:** Random NFT creation, image manipulation, IPFS pinning integration  
 🛠️ **Tech:** Node.js, Jimp, Pinata SDK, dotenv  
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=for-the-badge&logo=github)](https://github.com/amjadimdad00/TraitSmith)
 
-### 3. RepoSyncer - GitHub Automation
+### 4. RepoSyncer - GitHub Automation
 🤖 Automates GitHub repo creation with templates  
 ✨ **Features**: Auto-readme generation, privacy toggle, description templates  
 🛠️ **Tech**: Node.js, GitHub REST API
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=for-the-badge&logo=github)](https://github.com/amjadimdad00/RepoSyncer)
-
-### 4. SnakeMania - Retro Game Remake
-🐍 Classic snake game with power-ups and leaderboards  
-✨ **Features**: Local storage high scores, mobile touch controls, theme switcher  
-🛠️ **Tech**: Vanilla JavaScript, HTML5 Canvas, CSS Animations  
-[![Play](https://img.shields.io/badge/🕹️_Play_Now-FF6600?style=for-the-badge)](https://snakemanias.vercel.app) 
-[![Code](https://img.shields.io/badge/💻_Code-181717?style=for-the-badge&logo=github)](https://github.com/amjadimdad00/SnakeMania)
 
 ---
 
