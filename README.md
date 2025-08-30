@@ -16,15 +16,15 @@
 [![Play](https://img.shields.io/badge/🕹️_Play_Now-FF6600?style=for-the-badge)](https://connectfourmp.vercel.app)  
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=for-the-badge&logo=github)](https://github.com/amjadimdad00/ConnectFourMP)
 
-### 2. CrushPlays - Music Streaming App  
-🎵 Stream like a boss. No login, no ads (well, not really 😎)  
-✨ **Features**: JioSaavn API integration, real-time search, preloaded playback  
-🛠️ **Tech**: Next.js, TailwindCSS, Radix UI, Framer Motion, Embla Carousel, Sonner  
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-1DB954?style=for-the-badge&logo=spotify)](https://crushplays.vercel.app)  
+### 2. CrushPlays - Music Playback App  
+🎵 Songs on demand — because life’s too short for logins and ads 😎
+✨ **Features**: JioSaavn API integration, real-time search, preloaded playback
+🛠️ **Tech**: Next.js, TailwindCSS, Radix UI, Framer Motion, Embla Carousel, Sonner, Python (Backend API)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-1DB954?style=for-the-badge&logo=spotify)](https://crushplays.vercel.app)
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=for-the-badge&logo=github)](https://github.com/amjadimdad00/CrushPlays)
 
 ### 3. TraitSmith - NFT Generator  
-⚔️ Random NFTs because your crypto wallet needs friends  
+🎨 Spin up random NFT images — because art should never be predictable ✨
 ✨ **Features**: Random NFT creation, image manipulation, IPFS pinning  
 🛠️ **Tech**: Node.js, Python, Jimp, Pinata SDK, dotenv  
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=for-the-badge&logo=github)](https://github.com/amjadimdad00/TraitSmith)
