@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Amjad Imdad | Full-Stack MERN & Python Developer</h1>
+<h1 align="center">👨‍💻 Amjad Imdad | Full-Stack MERN Developer | Crafting Modern Web Experiences 🌐</h1>
 <h3 align="center">Crafting Innovative Web Experiences with Precision and Vision ✨🌐</h3>
 
 <p align="center">
