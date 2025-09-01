@@ -9,7 +9,27 @@
 
 ## 🎮 Code, Chaos & Cool Stuff
 
-### 1. Connect Four Multiplayer  
+### 1. J.A.R.V.I.S 🤖  
+🧠 Your Python-powered personal assistant — automates tasks, writes content, chats, and includes early GitHub automation (testing phase)  
+✨ **Features**: Voice I/O, system automation, WhatsApp messaging, real-time search, image generation, “Tired Mode” music, GitHub ops *(testing)*  
+🛠️ **Tech**: Python, PyQt5, edge-tts, Selenium, Cohere, Groq, OpenWeather, News API
+
+<div style="display: flex; gap: 10px; margin-top: 5px; flex-wrap: wrap;">
+  <a href="https://github.com/amjadimdad00/JARVIS#-installation">
+    <img src="https://img.shields.io/badge/🔧_Setup-0B7285?style=for-the-badge" alt="Setup">
+  </a>
+  <a href="https://github.com/amjadimdad00/JARVIS/">
+    <img src="https://img.shields.io/badge/📦_Download-2B8A3E?style=for-the-badge" alt="Download">
+  </a>
+  <a href="https://github.com/amjadimdad00/JARVIS">
+    <img src="https://img.shields.io/badge/💻_Code-181717?style=for-the-badge&logo=github" alt="Code">
+  </a>
+  <a href="https://linkedin.com/in/amjadimdad">
+    <img src="https://img.shields.io/badge/📝_Dev_Log-6C63FF?style=for-the-badge" alt="Dev Log">
+  </a>
+</div>
+
+### 2. Connect Four Multiplayer  
 🎮 Classic Connect Four… but online, multiplayer, and cooler than your ex's playlist  
 ✨ **Features**: Real-time multiplayer, sleek UI, lobby system, TypeScript power-up  
 🛠️ **Tech**: React, Vite, Phaser 3, Playroomkit, TypeScript  
@@ -23,7 +43,7 @@
   </a>
 </div>
 
-### 2. CrushPlays - Music Playback App  
+### 3. CrushPlays - Music Playback App  
 🎵 Songs on demand — because life’s too short for logins and ads 😎  
 ✨ **Features**: JioSaavn API integration, real-time search, preloaded playback  
 🛠️ **Tech**: Next.js, TailwindCSS, Radix UI, Framer Motion, Embla Carousel, Sonner, Python (Backend API)  
@@ -37,7 +57,7 @@
   </a>
 </div>
 
-### 3. TraitSmith - NFT Generator  
+### 4. TraitSmith - NFT Generator  
 🎨 Spin up random NFT images — because art should never be predictable ✨  
 ✨ **Features**: Random NFT creation, image manipulation, IPFS pinning  
 🛠️ **Tech**: Node.js, Python, Jimp, Pinata SDK, dotenv  
@@ -48,7 +68,7 @@
   </a>
 </div>
 
-### 4. RepoSyncer - GitHub Automation  
+### 5. RepoSyncer - GitHub Automation  
 🤖 Automate your repos because ain’t nobody got time for manual work  
 ✨ **Features**: Auto-readme generation, privacy toggle, template-based descriptions  
 🛠️ **Tech**: Node.js, GitHub REST API  
