@@ -15,17 +15,11 @@
 🛠️ **Tech**: Python, PyQt5, edge-tts, Selenium, Cohere, Groq, OpenWeather, News API
 
 <div style="display: flex; gap: 10px; margin-top: 5px; flex-wrap: wrap;">
-  <a href="https://github.com/amjadimdad00/JARVIS#-installation">
-    <img src="https://img.shields.io/badge/🔧_Setup-0B7285?style=for-the-badge" alt="Setup">
-  </a>
-  <a href="https://github.com/amjadimdad00/JARVIS/">
-    <img src="https://img.shields.io/badge/📦_Download-2B8A3E?style=for-the-badge" alt="Download">
-  </a>
   <a href="https://github.com/amjadimdad00/JARVIS">
     <img src="https://img.shields.io/badge/💻_Code-181717?style=for-the-badge&logo=github" alt="Code">
   </a>
   <a href="https://linkedin.com/in/amjadimdad">
-    <img src="https://img.shields.io/badge/📝_Dev_Log-6C63FF?style=for-the-badge" alt="Dev Log">
+    <img src="https://img.shields.io/badge/📝_Dev_Log-6C63FF?style=for-the-badge" alt="Dev Logs">
   </a>
 </div>
 
