@@ -18,7 +18,7 @@
   <a href="https://github.com/amjadimdad00/JARVIS">
     <img src="https://img.shields.io/badge/💻_Code-181717?style=for-the-badge&logo=github" alt="Code">
   </a>
-  <a href="https://linkedin.com/in/amjadimdad">
+  <a href="https://www.linkedin.com/posts/amjadimdad_github-amjadimdad00jarvis-your-ai-powered-activity-7368553307021148160-HU2o?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFdXx0gBx7Mzio1qSxBd4OxZwiqraECPeOc">
     <img src="https://img.shields.io/badge/📝_Dev_Log-6C63FF?style=for-the-badge" alt="Dev Logs">
   </a>
 </div>
