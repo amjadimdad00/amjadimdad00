@@ -2,8 +2,6 @@
 <h1 align="center">👨‍💻 Amjad Imdad | Full-Stack MERN Developer | Crafting Modern Web Experiences 🌐</h1>
 <h3 align="center">Crafting Innovative Web Experiences with Precision and Vision ✨🌐</h3>
 
----
-
 <img src="https://komarev.com/ghpvc/?username=amjadimdad00&label=Profile%20Views&color=00f5ff&style=flat-square" alt="Profile views"/>
 
 </div>
