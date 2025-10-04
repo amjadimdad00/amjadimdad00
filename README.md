@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=👨‍💻+Amjad+Imdad;⚡+Full-Stack+MERN+Developer;💡+Automation+%7C+AI+%7C+Creative+Coding;🎮+Turning+Ideas+into+Interactive+Reality" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?lines=👨‍💻+Amjad+Imdad;⚡+Full-Stack+MERN+Developer;💡+Automation+%7C+AI+%7C+Creative+Coding;🎮+Turning+Ideas+into+Interactive+Reality&center=true&width=600&height=50&size=26&duration=3000" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=amjadimdad00&label=Profile%20Views&color=00f5ff&style=flat-square" alt="Profile views"/>
 
