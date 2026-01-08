@@ -1,6 +1,7 @@
 <div align="center">
-<h1 align="center">👨‍💻 Amjad Imdad | Full-Stack MERN Developer | Crafting Modern Web Experiences 🌐</h1>
-<h3 align="center">Crafting Innovative Web Experiences with Precision and Vision ✨🌐</h3>
+
+<h1>Hi 👋, I'm Amjad Imdad</h1>
+<h3>Creating with code 💻, coffee ☕, and curiosity ✨ — Full-Stack Developer, Gamer, Creator & Poet.</h3>
 
 <img src="https://komarev.com/ghpvc/?username=amjadimdad00&label=Profile%20Views&color=00f5ff&style=flat-square" alt="Profile views"/>
 
@@ -10,138 +11,158 @@
 
 <div align="center">
 
-🧠 *“Code. Create. Repeat. Until Reality Feels Like Imagination.”* ⚡  
-💥 I love mixing logic with creativity — from sleek web apps to AI experiments.
+🧠 _“Code. Create. Repeat. Until Reality Feels Like Imagination.”_ ⚡  
+💥 I mix logic with creativity — building web apps, exploring tech, and sharing experiments.
 
 </div>
 
 ---
 
-## 🚀 Featured Creations
+## ✨ About Me
 
-### 🧠 [J.A.R.V.I.S — Python Personal Assistant](https://github.com/amjadimdad00/JARVIS)
-> A voice-powered assistant that *automates, chats, and creates.*
-- 🎤 Voice I/O | 🌐 Real-time Search | 🎧 “Tired Mode” Music | 🤖 GitHub Automation  
-- 🛠 **Tech:** Python, PyQt5, Selenium, Cohere, Groq, edge-tts  
-
-<p align="center">
-  <a href="https://github.com/amjadimdad00/JARVIS">
-    <img src="https://img.shields.io/badge/💻_View_Code-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/posts/amjadimdad_github-amjadimdad00jarvis-your-ai-powered-activity-7368553307021148160-HU2o">
-    <img src="https://img.shields.io/badge/📝_Dev_Log-6C63FF?style=for-the-badge" />
-  </a>
-</p>
+- 🔭 Currently building and refining: **[BetterOffStudio Clone](https://github.com/amjadimdad00/BetterOffStudio)**
+- 🌱 Learning & leveling up in: **Vue.js, AngularJS, Angular, MySQL, PostgreSQL, Docker**
+- 👨‍💻 Portfolio: **[amjadimdad00.vercel.app](https://amjadimdad00.vercel.app)**
+- 📝 Writing & thoughts: **[Blogs](https://amjadimdad00.vercel.app/blogs)**
+- 💬 Happy to talk about:  
+  **React, Next.js, JavaScript, TypeScript, Node.js, Express, MongoDB, Tailwind, Bootstrap, Material UI, GSAP, REST APIs, GraphQL, Firebase, Git & GitHub**
+- 📫 Email: **drayzosensei@gmail.com**
+- 📄 Resume: **[View Resume](https://drive.google.com/file/d/1cvPtpzju-_92M5JLnOVSrLldSIhx2q1-/view?usp=sharing)**
+- ⚡ Fun fact: _I can spend hours chasing bugs… or writing a shayari about the chase._
 
 ---
 
-### 🎮 [Connect Four Multiplayer](https://connectfourmp.vercel.app)
-> A nostalgic classic turned modern — *real-time, online, and built for fun.*
-- ⚡ Real-time Multiplayer | 🧩 Lobby System | 🎨 Polished UI  
-- 🛠 **Tech:** React, TypeScript, Phaser3, Playroomkit  
+## 🚀 Featured Work
+
+### 🔨 [BetterOffStudio](https://github.com/amjadimdad00/BetterOffStudio)
+
+> A clone of the BetterOff Studio website built with NextJS and Tailwind CSS.
+
+- ⚡ Interactive UI | 💻 Fully Responsive | 🚀 Optimized Performance
+- 🛠 **Tech:** React.js, Next.js, Tailwind CSS, GSAP, FramerMotion
 
 <p align="center">
-  <a href="https://connectfourmp.vercel.app">
-    <img src="https://img.shields.io/badge/🕹️_Play_Now-FF6600?style=for-the-badge" />
+  <a href="https://betteroffstudio-clone.vercel.app">
+    <img src="https://img.shields.io/badge/_Live_Demo-1DB954?style=for-the-badge&logo=vercel" />
   </a>
-  <a href="https://github.com/amjadimdad00/ConnectFourMP">
-    <img src="https://img.shields.io/badge/💻_Code-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/amjadimdad00/BetterOffStudio">
+    <img src="https://img.shields.io/badge/_View_Code-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
----
+### 🌐 [Portfolio](https://amjadimdad00.vercel.app)
 
-### 🎵 [CrushPlays – Minimal Music App](https://crushplays.vercel.app)
-> *Ad-free music with JioSaavn integration. Sleek, fast, and just vibes.*
-- 🎧 Instant Search | 🚀 Real-time Playback | 🌀 Smooth Animations  
-- 🛠 **Tech:** Next.js, TailwindCSS, Framer Motion, Python API  
+> Showcasing my web projects, experiments, and creative coding.
+
+- 💡 Intuitive Design | ✨ Smooth Interactions | 🚀 Lightning-Fast Performance
+- 🛠 **Tech Stack:** React.js, Next.js, Tailwind CSS, GSAP
 
 <p align="center">
-  <a href="https://crushplays.vercel.app">
-    <img src="https://img.shields.io/badge/🚀_Live_Demo-1DB954?style=for-the-badge&logo=spotify" />
+  <a href="https://amjadimdad00.vercel.app">
+    <img src="https://img.shields.io/badge/_Live_Demo-1DB954?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://github.com/amjadimdad00/Portfolio">
+    <img src="https://img.shields.io/badge/_View_Code-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+### 🎵 [CrushPlays](https://github.com/amjadimdad00/CrushPlays)
+
+> CrushPlays is a sleek and modern music streaming web app built with Next.js, TailwindCSS, and Radix UI.
+
+- ⚡ Interactive UI | 💻 Fully Responsive | 🚀 Optimized Performance
+- 🛠 **Tech:** React.js, Next.js, Tailwind CSS, GSAP
+
+<p align="center">
+  <a href="crushplays.vercel.app">
+    <img src="https://img.shields.io/badge/_Live_Demo-1DB954?style=for-the-badge&logo=vercel" />
   </a>
   <a href="https://github.com/amjadimdad00/CrushPlays">
-    <img src="https://img.shields.io/badge/💻_Code-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/_View_Code-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-### 🧬 [TraitSmith – NFT Generator](https://github.com/amjadimdad00/TraitSmith)
-> Randomized NFT artwork — *because perfection is boring.*  
-- 🎨 Image layering | ☁️ IPFS pinning | 🔁 Random generation  
-- 🛠 **Tech:** Node.js, Python, Jimp, Pinata SDK  
-
----
-
-### ⚙️ [RepoSyncer – GitHub Automation Tool](https://github.com/amjadimdad00/RepoSyncer)
-> *Tired of updating README files? This bot’s got you covered.*  
-- 📄 Auto-README | 🔐 Privacy Toggle | 🧩 Template System  
-- 🛠 **Tech:** Node.js, GitHub REST API  
-
----
-
-## ⚡ Tech Arsenal
+## ⚡ Skills & Tech Stack
 
 <div align="center">
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-
-### 🧩 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white)
-
-### 🛠 Tools
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel)
+![React.js](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST_API-FF6D00?logo=postman&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile_Dev-FF0066)
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?logo=googlechrome&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-0A66C2)
+![Debugging](https://img.shields.io/badge/Debugging-FF6F00)
+![Agile Development](https://img.shields.io/badge/Agile_Development-FF0066)
+![Full--Stack Development](https://img.shields.io/badge/Full--Stack_Development-6C63FF)
 
 </div>
 
 ---
 
-## 🌌 Stats Zone
+## 📊 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amjadimdad00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amjadimdad00&theme=tokyonight&hide_border=true" />
-</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amjadimdad00&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF" />
-</p>
+<!-- GitHub Stats Overview -->
+<img width="35%" src="https://raw.githubusercontent.com/amjadimdad00/Github-Stats-Tracker/master/generated/overview.svg#gh-dark-mode-only" />
+<img width="35%" src="https://raw.githubusercontent.com/amjadimdad00/Github-Stats-Tracker/master/generated/languages.svg#gh-dark-mode-only" />
+
+<!-- Streak Stats -->
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=amjadimdad00&theme=tokyonight&hide_border=true" />
+
+<!-- Activity Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amjadimdad00&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" />
+
+</div>
 
 ---
 
 ## 💫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/amjadimdad">
-    <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:amjadimdad65@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://amjadimdad00.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-FF4088?style=for-the-badge&logo=vercel" />
-  </a>
+  <a href="https://amjadimdad00.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://github.com/amjadimdad00">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+</a>
+<a href="https://linkedin.com/in/amjadimdad">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://codepen.io/drayzosensei">
+  <img src="https://img.shields.io/badge/CodePen-222?style=for-the-badge&logo=codepen" />
+</a>
+<a href="https://www.youtube.com/c/@drayzosensei"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube" /></a>
+<a href="https://instagram.com/drayzosensei"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" /></a>
+<a href="https://facebook.com/amjadimdad00">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" />
+</a>
+<a href="mailto:drayzosensei@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 <div align="center">
-  
-✨ *“I don’t code to follow trends — I code to create them.”* ✨  
-🎮 Automation • AI • Web • Experiments
+
+✨ _“I don’t code to follow trends — I code to create them.”_ ✨  
+💻 Coding • 🎮 Gaming • 📺 YouTube • ✍️ Poetry • 🌐 Web
 
 </div>
