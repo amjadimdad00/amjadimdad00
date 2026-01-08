@@ -128,7 +128,8 @@
 <img width="35%" src="https://raw.githubusercontent.com/amjadimdad00/Github-Stats-Tracker/master/generated/languages.svg#gh-dark-mode-only" />
 
 <!-- Streak Stats -->
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=amjadimdad00&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=amjadimdad00&theme=tokyonight" />
 
 <!-- Activity Graph -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amjadimdad00&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" />
