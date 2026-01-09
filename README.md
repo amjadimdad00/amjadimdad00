@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Hi 👋, I'm Amjad Imdad</h1>
-<h3>Creating with code 💻, coffee ☕, and curiosity ✨ — Full-Stack Developer, Gamer, Creator & Poet.</h3>
+<h3>Creating with code 💻, coffee ☕, and curiosity ✨ — Full-Stack Developer, YouTuber, Gamer.</h3>
 
 <img src="https://komarev.com/ghpvc/?username=amjadimdad00&label=Profile%20Views&color=00f5ff&style=flat-square" alt="Profile views"/>
 
@@ -23,7 +23,7 @@
 - 🔭 Currently building and refining: **[BetterOffStudio Clone](https://github.com/amjadimdad00/BetterOffStudio)**
 - 🌱 Learning & leveling up in: **Vue.js, AngularJS, Angular, MySQL, PostgreSQL, Docker**
 - 👨‍💻 Portfolio: **[amjadimdad00.vercel.app](https://amjadimdad00.vercel.app)**
-- 📝 Writing & thoughts: **[Blogs](https://amjadimdad00.vercel.app/blogs)**
+- 📝 Writing & thoughts (Soon): **[Blogs](https://amjadimdad00.vercel.app/blogs)**
 - 💬 Happy to talk about:  
   **React, Next.js, JavaScript, TypeScript, Node.js, Express, MongoDB, Tailwind, Bootstrap, Material UI, GSAP, REST APIs, GraphQL, Firebase, Git & GitHub**
 - 📫 Email: **drayzosensei@gmail.com**
@@ -34,12 +34,12 @@
 
 ## 🚀 Featured Work
 
-### 🔨 [BetterOffStudio](https://github.com/amjadimdad00/BetterOffStudio)
+### 🔨 **BetterOffStudio**
 
-> A clone of the BetterOff Studio website built with NextJS and Tailwind CSS.
+> A clone of the BetterOff.Studio website built with NextJS and Tailwind CSS.
 
 - ⚡ Interactive UI | 💻 Fully Responsive | 🚀 Optimized Performance
-- 🛠 **Tech:** React.js, Next.js, Tailwind CSS, GSAP, FramerMotion
+- 🛠 **Tech:** Next.js, Typescript, Tailwind CSS, GSAP, FramerMotion
 
 <p align="center">
   <a href="https://betteroffstudio-clone.vercel.app">
@@ -50,12 +50,28 @@
   </a>
 </p>
 
-### 🌐 [Portfolio](https://amjadimdad00.vercel.app)
+### 🎮 **Gamelit**
+
+> A modern gaming-focused web project showcasing interactive UI, smooth animations, and clean frontend structure.
+
+- 🎯 Engaging Game UI | 🎨 Clean Visuals | ⚡ Smooth Performance
+- 🛠 **Tech Stack:** Next.js, Typescript, Tailwind CSS
+
+<p align="center">
+  <a href="https://amjadimdad00.vercel.app">
+    <img src="https://img.shields.io/badge/_Live_Demo-1DB954?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://github.com/amjadimdad00/gamelit">
+    <img src="https://img.shields.io/badge/_View_Code-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+### 🌐 **Portfolio**
 
 > Showcasing my web projects, experiments, and creative coding.
 
 - 💡 Intuitive Design | ✨ Smooth Interactions | 🚀 Lightning-Fast Performance
-- 🛠 **Tech Stack:** React.js, Next.js, Tailwind CSS, GSAP
+- 🛠 **Tech Stack:** Next.js, Typescript, Tailwind CSS, FramerMotion
 
 <p align="center">
   <a href="https://amjadimdad00.vercel.app">
@@ -66,12 +82,12 @@
   </a>
 </p>
 
-### 🎵 [CrushPlays](https://github.com/amjadimdad00/CrushPlays)
+### 🎵 **CrushPlays**
 
-> CrushPlays is a sleek and modern music streaming web app built with Next.js, TailwindCSS, and Radix UI.
+> A sleek and modern music streaming web app built with Next.js, TailwindCSS, and Radix UI.
 
 - ⚡ Interactive UI | 💻 Fully Responsive | 🚀 Optimized Performance
-- 🛠 **Tech:** React.js, Next.js, Tailwind CSS, GSAP
+- 🛠 **Tech:** React.js, Typescript, Tailwind CSS, FramerMotion
 
 <p align="center">
   <a href="crushplays.vercel.app">
