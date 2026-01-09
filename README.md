@@ -58,7 +58,7 @@
 - 🛠 **Tech Stack:** Next.js, Typescript, Tailwind CSS
 
 <p align="center">
-  <a href="https://amjadimdad00.vercel.app">
+  <a href="https://gamelit.vercel.app">
     <img src="https://img.shields.io/badge/_Live_Demo-1DB954?style=for-the-badge&logo=vercel" />
   </a>
   <a href="https://github.com/amjadimdad00/gamelit">
@@ -90,7 +90,7 @@
 - 🛠 **Tech:** React.js, Typescript, Tailwind CSS, FramerMotion
 
 <p align="center">
-  <a href="crushplays.vercel.app">
+  <a href="https://crushplays.vercel.app">
     <img src="https://img.shields.io/badge/_Live_Demo-1DB954?style=for-the-badge&logo=vercel" />
   </a>
   <a href="https://github.com/amjadimdad00/CrushPlays">
