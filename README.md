@@ -176,7 +176,7 @@
 
 <div align="center">
 
-✨ <em>“I don’t code to follow trends — I code to create them.”</em> ✨
+✨ <em>“I don’t code to follow trends — I code to create them.”</em> ✨ <br/>
 💻 **Coding** • 🎮 **Gaming** • 📺 **YouTube** • ✍️ **Poetry** • 🌐 **Web**
 
 </div>
