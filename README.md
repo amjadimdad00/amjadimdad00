@@ -20,12 +20,12 @@
 
 ## ✨ About Me
 
-- 🔭 Currently building and refining: **[BetterOffStudio Clone](https://github.com/amjadimdad00/BetterOffStudio)**
+- 🔭 Currently building and refining: **[DrayzoUploads](https://github.com/amjadimdad00/DrayzoUploads)**
 - 🌱 Learning & leveling up in: **Vue.js, AngularJS, Angular, MySQL, PostgreSQL, Docker**
 - 👨‍💻 Portfolio: **[amjadimdad00.vercel.app](https://amjadimdad00.vercel.app)**
 - 📝 Writing & thoughts (Soon): **[Blogs](https://amjadimdad00.vercel.app/blogs)**
 - 💬 Happy to talk about:  
-  **React, Next.js, JavaScript, TypeScript, Node.js, Express, MongoDB, Tailwind, Bootstrap, Material UI, GSAP, REST APIs, GraphQL, Firebase, Git & GitHub**
+  **Python, HTML, CSS, JavaScript, TypeScript, React.js, Next.js, jQuery, Tailwind CSS, Bootstrap, Material UI, Node.js, Express.js, MongoDB, REST APIs, GraphQL, Firebase, Git, GitHub, Postman, Chrome DevTools, Netlify, Responsive Web Design, Debugging, Agile Development**
 - 📫 Email: **drayzosensei@gmail.com**
 - 📄 Resume: **[View Resume](https://drive.google.com/file/d/1cvPtpzju-_92M5JLnOVSrLldSIhx2q1-/view?usp=sharing)**
 - ⚡ Fun fact: _I can spend hours chasing bugs… or writing a shayari about the chase._
@@ -66,22 +66,6 @@
   </a>
 </p>
 
-### 🌐 **Portfolio**
-
-> Showcasing my web projects, experiments, and creative coding.
-
-- 💡 Intuitive Design | ✨ Smooth Interactions | 🚀 Lightning-Fast Performance
-- 🛠 **Tech Stack:** Next.js, Typescript, Tailwind CSS, FramerMotion
-
-<p align="center">
-  <a href="https://amjadimdad00.vercel.app">
-    <img src="https://img.shields.io/badge/_Live_Demo-1DB954?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://github.com/amjadimdad00/Portfolio">
-    <img src="https://img.shields.io/badge/_View_Code-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
 ### 🎵 **CrushPlays**
 
 > A sleek and modern music streaming web app built with Next.js, TailwindCSS, and Radix UI.
@@ -94,6 +78,19 @@
     <img src="https://img.shields.io/badge/_Live_Demo-1DB954?style=for-the-badge&logo=vercel" />
   </a>
   <a href="https://github.com/amjadimdad00/CrushPlays">
+    <img src="https://img.shields.io/badge/_View_Code-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+### 🌐 **CreativeLayouts**
+
+> Showcasing my creative web layouts, UI experiments, and interactive designs.
+
+- 💡 Intuitive Design | ✨ Smooth Interactions | 🚀 Lightning-Fast Performance
+- 🛠 **Tech Stack:** HTML, CSS, Javascript
+
+<p align="center">
+  <a href="https://github.com/amjadimdad00/CreativeLayouts">
     <img src="https://img.shields.io/badge/_View_Code-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -179,7 +176,7 @@
 
 <div align="center">
 
-✨ _“I don’t code to follow trends — I code to create them.”_ ✨  
-💻 Coding • 🎮 Gaming • 📺 YouTube • ✍️ Poetry • 🌐 Web
+✨ <em>“I don’t code to follow trends — I code to create them.”</em> ✨
+💻 **Coding** • 🎮 **Gaming** • 📺 **YouTube** • ✍️ **Poetry** • 🌐 **Web**
 
 </div>
