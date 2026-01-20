@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Hi 👋, I'm Amjad Imdad</h1>
-<h3>Creating with code 💻, coffee ☕, and curiosity ✨ — Full-Stack Developer, YouTuber, Gamer.</h3>
+<h3>Creating with code 💻, coffee ☕, and curiosity ✨ — Full-Stack Developer.</h3>
 
 <img src="https://komarev.com/ghpvc/?username=amjadimdad00&label=Profile%20Views&color=00f5ff&style=flat-square" alt="Profile views"/>
 
@@ -20,12 +20,12 @@
 
 ## ✨ About Me
 
-- 🔭 Currently building and refining: **[DrayzoUploads](https://github.com/amjadimdad00/DrayzoUploads)**
+- 🔭 Currently building and refining: **[Portfolio](https://github.com/amjadimdad00/Portfolio)**
 - 🌱 Learning & leveling up in: **Vue.js, AngularJS, Angular, MySQL, PostgreSQL, Docker**
 - 👨‍💻 Portfolio: **[amjadimdad00.vercel.app](https://amjadimdad00.vercel.app)**
 - 📝 Writing & thoughts (Soon): **[Blogs](https://amjadimdad00.vercel.app/blogs)**
 - 💬 Happy to talk about:  
-  **Python, HTML, CSS, JavaScript, TypeScript, React.js, Next.js, jQuery, Tailwind CSS, Bootstrap, Material UI, Node.js, Express.js, MongoDB, REST APIs, GraphQL, Firebase, Git, GitHub, Postman, Chrome DevTools, Netlify, Responsive Web Design, Debugging, Agile Development**
+  **HTML, CSS, JavaScript, TypeScript, React, Next.js, Angular, jQuery, Tailwind CSS, Bootstrap, Material UI, Sass, Responsive Design, Redux, Gsap, Node.js, Express.js, Python, MongoDB, Firebase, REST APIs, GraphQL, Git, GitHub, VS Code, Postman, Chrome DevTools, Figma, Netlify, Vercel, Debugging, Agile Development**
 - 📫 Email: **drayzosensei@gmail.com**
 - 📄 Resume: **[View Resume](https://drive.google.com/file/d/1cvPtpzju-_92M5JLnOVSrLldSIhx2q1-/view?usp=sharing)**
 - ⚡ Fun fact: _I can spend hours chasing bugs… or writing a shayari about the chase._
@@ -38,7 +38,7 @@
 
 > A clone of the BetterOff.Studio website built with NextJS and Tailwind CSS.
 
-- ⚡ Interactive UI | 💻 Fully Responsive | 🚀 Optimized Performance
+- ⚡ Interactive UI | 💻 Not Fully Responsive | 🚀 Optimized Performance
 - 🛠 **Tech:** Next.js, Typescript, Tailwind CSS, GSAP, FramerMotion
 
 <p align="center">
@@ -102,31 +102,37 @@
 <div align="center">
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![React.js](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?logo=mui&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-0A66C2)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
+![Gsap](https://img.shields.io/badge/Gsap-88CE02?logo=gsap&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![REST APIs](https://img.shields.io/badge/REST_API-FF6D00?logo=postman&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?logo=vsc&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?logo=googlechrome&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-0A66C2)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![Debugging](https://img.shields.io/badge/Debugging-FF6F00)
 ![Agile Development](https://img.shields.io/badge/Agile_Development-FF0066)
-![Full--Stack Development](https://img.shields.io/badge/Full--Stack_Development-6C63FF)
 
 </div>
 
