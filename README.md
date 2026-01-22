@@ -34,6 +34,40 @@
 
 ## 🚀 Featured Work
 
+### 🔧 **GithubReadmeStats**
+
+> Generate visualizations of GitHub stats for your profile and repositories.
+
+- 📊 Profile & Repo Stats | ⚡ Fast & Lightweight
+
+- 🛠 **Tech:** Python, GitHub Actions
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/amjadimdad00/GithubReadmeStats/main/generated/overview.svg#gh-dark-mode-only">
+    <img src="https://img.shields.io/badge/_Live_Demo-1DB954?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://github.com/amjadimdad00/GithubReadmeStats">
+    <img src="https://img.shields.io/badge/_View_Code-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+### 🛠 **TraitSmith**
+
+> A project to manage and showcase custom traits in a creative and interactive way.
+
+- 🎨 Interactive UI | ⚡ Optimized Performance
+
+- 🛠 **Tech:** Next.js, Tailwind CSS
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/amjadimdad00/TraitSmith/main/Output/1/1.png">
+    <img src="https://img.shields.io/badge/_Live_Demo-1DB954?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://github.com/amjadimdad00/TraitSmith">
+    <img src="https://img.shields.io/badge/_View_Code-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
 ### 🔨 **BetterOffStudio**
 
 > A clone of the BetterOff.Studio website built with NextJS and Tailwind CSS.
@@ -46,22 +80,6 @@
     <img src="https://img.shields.io/badge/_Live_Demo-1DB954?style=for-the-badge&logo=vercel" />
   </a>
   <a href="https://github.com/amjadimdad00/BetterOffStudio">
-    <img src="https://img.shields.io/badge/_View_Code-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-### 🎮 **Gamelit**
-
-> A modern gaming-focused web project showcasing interactive UI, smooth animations, and clean frontend structure.
-
-- 🎯 Engaging Game UI | 🎨 Clean Visuals | ⚡ Smooth Performance
-- 🛠 **Tech Stack:** Next.js, Typescript, Tailwind CSS
-
-<p align="center">
-  <a href="https://gamelit.vercel.app">
-    <img src="https://img.shields.io/badge/_Live_Demo-1DB954?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://github.com/amjadimdad00/gamelit">
     <img src="https://img.shields.io/badge/_View_Code-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -143,8 +161,8 @@
 <div align="center">
 
 <!-- GitHub Stats Overview -->
-<img width="35%" src="https://raw.githubusercontent.com/amjadimdad00/Github-Stats-Tracker/master/generated/overview.svg#gh-dark-mode-only" />
-<img width="35%" src="https://raw.githubusercontent.com/amjadimdad00/Github-Stats-Tracker/master/generated/languages.svg#gh-dark-mode-only" />
+<img width="35%" src="https://raw.githubusercontent.com/amjadimdad00/GithubReadmeStats/main/generated/overview.svg#gh-dark-mode-only" />
+<img width="35%" src="https://raw.githubusercontent.com/amjadimdad00/GithubReadmeStats/main/generated/languages.svg#gh-dark-mode-only" />
 
 <!-- Streak Stats -->
 
