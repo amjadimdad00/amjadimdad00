@@ -148,7 +148,7 @@
 
 <!-- Streak Stats -->
 
-<img src="https://streak-stats.demolab.com?user=amjadimdad00&theme=tokyonight" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=amjadimdad00&theme=tokyonight" />
 
 <!-- Activity Graph -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amjadimdad00&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" />
