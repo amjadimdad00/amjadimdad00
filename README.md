@@ -100,15 +100,15 @@
   </a>
 </p>
 
-### 🌐 **CreativeLayouts**
+### 📂 **DrayzoUploads**
 
-> Showcasing my creative web layouts, UI experiments, and interactive designs.
+> A curated collection of projects from my YouTube channel — learn, explore, and experiment with code!
 
-- 💡 Intuitive Design | ✨ Smooth Interactions | 🚀 Lightning-Fast Performance
-- 🛠 **Tech Stack:** HTML, CSS, Javascript
+- 🚀 Easy-to-Follow | 🧩 Organized Projects | 💡 Learning-Focused
+- 🛠 **Tech Stack:** HTML, CSS, JavaScript
 
 <p align="center">
-  <a href="https://github.com/amjadimdad00/CreativeLayouts">
+  <a href="https://github.com/amjadimdad00/drayzouploads">
     <img src="https://img.shields.io/badge/_View_Code-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
