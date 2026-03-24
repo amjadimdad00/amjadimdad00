@@ -1,7 +1,8 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Amjad Imdad</h1>
-<h3>Creating with code 💻, coffee ☕, and curiosity ✨ — Full-Stack Developer.</h3>
+# Hi 👋, I'm Amjad Imdad
+
+### Creating with code 💻, coffee ☕, and curiosity ✨ — Full-Stack Developer
 
 <img src="https://komarev.com/ghpvc/?username=amjadimdad00&label=Profile%20Views&color=00f5ff&style=flat-square" alt="Profile views"/>
 
@@ -12,7 +13,7 @@
 <div align="center">
 
 🧠 _“Code. Create. Repeat. Until Reality Feels Like Imagination.”_ ⚡  
-💥 I mix logic with creativity — building web apps, exploring tech, and sharing experiments.
+💥 Blending logic with creativity — building web apps, exploring tech, and sharing experiments.
 
 </div>
 
@@ -20,44 +21,24 @@
 
 ## ✨ About Me
 
-- 🔭 Currently building and refining: **[Portfolio](https://github.com/amjadimdad00/Portfolio)**
-- 🌱 Learning & leveling up in: **Vue.js, AngularJS, Angular, MySQL, PostgreSQL, Docker**
-- 👨‍💻 Portfolio: **[amjadimdad00.vercel.app](https://amjadimdad00.vercel.app)**
-- 📝 Writing & thoughts (Soon): **[Blogs](https://amjadimdad00.vercel.app/blogs)**
-- 💬 Happy to talk about:  
-  **HTML, CSS, JavaScript, TypeScript, React, Next.js, Angular, jQuery, Tailwind CSS, Bootstrap, Material UI, Sass, Responsive Design, Redux, Gsap, Node.js, Express.js, Python, MongoDB, Firebase, REST APIs, GraphQL, Git, GitHub, VS Code, Postman, Chrome DevTools, Figma, Netlify, Vercel, Debugging, Agile Development**
-- 📫 Email: **drayzosensei@gmail.com**
-- 📄 Resume: **[View Resume](https://drive.google.com/file/d/1cvPtpzju-_92M5JLnOVSrLldSIhx2q1-/view?usp=sharing)**
-- ⚡ Fun fact: _I can spend hours chasing bugs… or writing a shayari about the chase._
+- 🔭 **Currently building:** [Portfolio](https://github.com/amjadimdad00/Portfolio)
+- 💻 **Portfolio:** [amjadimdad00.vercel.app](https://amjadimdad00.vercel.app)
+- 💬 **Tech & topics I enjoy:**  
+  HTML, CSS, JavaScript, TypeScript, React, Next.js, Angular, jQuery, Tailwind CSS, Bootstrap, Material UI, Sass, Responsive Design, Redux, GSAP, Node.js, Express.js, Python, MongoDB, Firebase, REST APIs, GraphQL, Git, GitHub, VS Code, Postman, Chrome DevTools, Figma, Netlify, Vercel, Debugging, Agile Development
+- 📫 **Email:** drayzosensei@gmail.com
+- 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1cvPtpzju-_92M5JLnOVSrLldSIhx2q1-/view?usp=sharing)
+- ⚡ **Fun fact:** Debugging by day, Gaming by night—sometimes simultaneously 😎
 
 ---
 
 ## 🚀 Featured Work
 
-### 🔧 **GithubReadmeStats**
+### 🛠 TraitSmith
 
-> Generate visualizations of GitHub stats for your profile and repositories.
-
-- 📊 Profile & Repo Stats | ⚡ Fast & Lightweight
-
-- 🛠 **Tech:** Python, GitHub Actions
-
-<p align="center">
-  <a href="https://raw.githubusercontent.com/amjadimdad00/GithubReadmeStats/main/generated/overview.svg#gh-dark-mode-only">
-    <img src="https://img.shields.io/badge/_Live_Demo-1DB954?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://github.com/amjadimdad00/GithubReadmeStats">
-    <img src="https://img.shields.io/badge/_View_Code-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-### 🛠 **TraitSmith**
-
-> A project to manage and showcase custom traits in a creative and interactive way.
+> Create and manage custom traits in a creative and easy way.
 
 - 🎨 Interactive UI | ⚡ Optimized Performance
-
-- 🛠 **Tech:** Next.js, Tailwind CSS
+- 🛠 **Tech:** Node.js
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/amjadimdad00/TraitSmith/main/Output/1/1.png">
@@ -68,28 +49,29 @@
   </a>
 </p>
 
-### 🔨 **BetterOffStudio**
+### 🎹 Web Harmonium
 
-> A clone of the BetterOff.Studio website built with NextJS and Tailwind CSS.
+> Play a virtual harmonium online with keyboard, mouse, or touch—realistic sounds and controls.
 
-- ⚡ Interactive UI | 💻 Not Fully Responsive | 🚀 Optimized Performance
-- 🛠 **Tech:** Next.js, Typescript, Tailwind CSS, GSAP, FramerMotion
+- ⚡ Full Virtual Keyboard | 🔊 Volume & Octave Control | 🌊 Reverb & Layered Notes
+- 💻 Fully Responsive | 🚀 Lightweight & Fast
+- 🛠 **Tech:** HTML5, CSS3, Vanilla JS, Web Audio API, SVG
 
 <p align="center">
-  <a href="https://betteroffstudio-clone.vercel.app">
+  <a href="https://webharmonium-amjadimdad00.vercel.app">
     <img src="https://img.shields.io/badge/_Live_Demo-1DB954?style=for-the-badge&logo=vercel" />
   </a>
-  <a href="https://github.com/amjadimdad00/BetterOffStudio">
+  <a href="https://github.com/amjadimdad00/WebHarmonium">
     <img src="https://img.shields.io/badge/_View_Code-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
-### 🎵 **CrushPlays**
+### 🎵 CrushPlays
 
-> A sleek and modern music streaming web app built with Next.js, TailwindCSS, and Radix UI.
+> A modern music streaming web app with sleek UI and smooth interactions.
 
 - ⚡ Interactive UI | 💻 Fully Responsive | 🚀 Optimized Performance
-- 🛠 **Tech:** React.js, Typescript, Tailwind CSS, FramerMotion
+- 🛠 **Tech:** React.js, TypeScript, Tailwind CSS, Framer Motion
 
 <p align="center">
   <a href="https://crushplays.vercel.app">
@@ -100,15 +82,18 @@
   </a>
 </p>
 
-### 📂 **DrayzoUploads**
+### 🔨 BetterOffStudio
 
-> A curated collection of projects from my YouTube channel — learn, explore, and experiment with code!
+> Clone of the BetterOff.Studio website with interactive animations.
 
-- 🚀 Easy-to-Follow | 🧩 Organized Projects | 💡 Learning-Focused
-- 🛠 **Tech Stack:** HTML, CSS, JavaScript
+- ⚡ Interactive UI | 💻 Not fully responsive | 🚀 Optimized Performance
+- 🛠 **Tech:** Next.js, TypeScript, Tailwind CSS, GSAP, Framer Motion
 
 <p align="center">
-  <a href="https://github.com/amjadimdad00/drayzouploads">
+  <a href="https://betteroffstudio-clone.vercel.app">
+    <img src="https://img.shields.io/badge/_Live_Demo-1DB954?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://github.com/amjadimdad00/BetterOffStudio">
     <img src="https://img.shields.io/badge/_View_Code-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -160,15 +145,11 @@
 
 <div align="center">
 
-<!-- GitHub Stats Overview -->
 <img width="35%" src="https://raw.githubusercontent.com/amjadimdad00/GithubReadmeStats/main/generated/overview.svg#gh-dark-mode-only" />
 <img width="35%" src="https://raw.githubusercontent.com/amjadimdad00/GithubReadmeStats/main/generated/languages.svg#gh-dark-mode-only" />
 
-<!-- Streak Stats -->
-
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=amjadimdad00&theme=tokyonight" />
 
-<!-- Activity Graph -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amjadimdad00&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" />
 
 </div>
@@ -179,21 +160,10 @@
 
 <p align="center">
   <a href="https://amjadimdad00.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=vercel" /></a>
-  <a href="https://github.com/amjadimdad00">
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-</a>
-<a href="https://linkedin.com/in/amjadimdad">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="https://codepen.io/drayzosensei">
-  <img src="https://img.shields.io/badge/CodePen-222?style=for-the-badge&logo=codepen" />
-</a>
-<a href="https://www.youtube.com/@drayzosensei"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube" /></a>
-<a href="https://instagram.com/drayzosensei"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" /></a>
-<a href="https://facebook.com/amjadimdad00">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" />
-</a>
-<a href="mailto:drayzosensei@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/amjadimdad00"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://linkedin.com/in/amjadimdad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://facebook.com/amjadimdad00"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:drayzosensei@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
