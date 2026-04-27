@@ -25,7 +25,7 @@
 - 💻 **Portfolio:** [amjadimdad00.vercel.app](https://amjadimdad00.vercel.app)
 - 💬 **Tech & topics I enjoy:**  
   HTML, CSS, JavaScript, TypeScript, React, Next.js, Angular, jQuery, Tailwind CSS, Bootstrap, Material UI, Sass, Responsive Design, Redux, GSAP, Node.js, Express.js, Python, MongoDB, Firebase, REST APIs, GraphQL, Git, GitHub, VS Code, Postman, Chrome DevTools, Figma, Netlify, Vercel, Debugging, Agile Development
-- 📫 **Email:** drayzosensei@gmail.com
+- 📫 **Email:** amjadabro598@gmail.com
 - 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1cvPtpzju-_92M5JLnOVSrLldSIhx2q1-/view?usp=sharing)
 - ⚡ **Fun fact:** Debugging by day, Gaming by night—sometimes simultaneously 😎
 
